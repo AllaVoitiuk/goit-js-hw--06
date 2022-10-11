@@ -23,4 +23,4 @@ images.forEach(image=>{
   `<li><img src = ${imageUrl} alt = ${imageAlt}></li>`);
 })
 
-//gallery.style.di
+
